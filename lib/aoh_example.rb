@@ -13,6 +13,8 @@ end
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
+  
+  #the task is not clear, judging by the result expected in test, it's the same output as assembled_aoh method output...
   return assembled_aoh
 end
 
